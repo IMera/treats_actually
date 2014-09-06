@@ -1,0 +1,71 @@
+body {
+	background-image: url('../../images/3.jpg');
+	background-size: cover;
+	/*color: #66510B;*/
+	color: #473909;
+	font-family: Batang, Garamond, Arial;
+	font-size: 20px;
+	line-height: 20px;
+}
+
+h1 {font-family: Batang, Garamond, Arial;
+	font-size: 70px;
+color: #66510B;
+text-align: center;}
+
+h2 {font-family: Batang, Garamond, Arial;
+	font-size: 36px;
+color: #66510B;
+text-align: center;}
+
+h3 {font-family: Batang, Garamond, Arial;
+	color: #A48319;
+text-align: center;}
+
+p {font-family: Batang, Garamond, Arial;
+text-align: center;
+font-weight: 580;
+padding-right: 80px;
+padding-left: 80px;
+line-height: 25px;}
+
+.mesh {background-color: rgba(255,255,255,0.5);}
+
+.nav {background-color: rgba(225,255,225,0.2);}
+.nav > li > a:hover {
+color: #66510B;
+background-color: rgba(225,225,225,0.4)}
+.nav > li > a {
+color: #66510B;
+font-family: Batang, Garamond, Arial;
+font-size: 20px;}
+.nav-pills > li.active > a,
+ .nav-pills > li.active > a:hover {
+color: #66510B;
+background-color: rgba(225,225,225,0.4);}
+/*.wide_nav {margin-bottom: -18px;*/}
+
+.wide_title {padding-top: 10px;
+margin-bottom: -25px;}
+
+table {margin: auto auto;}
+
+.lc {text-align: right;
+padding-right: 5px;}
+
+#Mera {width: 70%;
+	margin-top: 30px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;}
+
+.emph {font-size: 30px;
+	font-weight: normal;
+line-height: 35px;}
+
+.nicelist>li {line-height: 25px;}
+
+#beach {display: block;
+	margin-right: auto;
+	margin-left: auto;}
+
