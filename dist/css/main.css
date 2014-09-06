@@ -69,3 +69,7 @@ line-height: 35px;}
 	margin-right: auto;
 	margin-left: auto;}
 
+.contactform {
+display: block;
+position: relative;
+text-align: center;}
